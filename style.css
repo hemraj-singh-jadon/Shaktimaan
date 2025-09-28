@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lavender;
+}
+
+
+div {
+    height: 250px;
+    width: 900px;
+    /* border: 2px solid red; */
+    display: flex;
+    gap: 60px;
+    justify-content: space-evenly;
+}
+
+img {
+    width: auto;
+    box-shadow: 5px 5px 2px 2px rgba(128, 128, 128, 0.723);
+
+}
